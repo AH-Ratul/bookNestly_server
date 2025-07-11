@@ -1,4 +1,4 @@
-# 📚 BookNestly App
+# 📚 BookNestly — Minimal Library Management App
 
 ---
 
